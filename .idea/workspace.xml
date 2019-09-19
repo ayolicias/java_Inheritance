@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f2f8f4a4-fc9e-4a6b-a4d0-c8a7d350fc36" name="Default Changelist" comment="" />
+    <list default="true" id="f2f8f4a4-fc9e-4a6b-a4d0-c8a7d350fc36" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/invoking/Adder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AboutInheritance/animals/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AboutInheritance/animals/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AboutInheritance/animals/Horse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AboutInheritance/animals/Horse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AboutInheritance/animals/TestAnimals.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AboutInheritance/animals/TestAnimals.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AboutInheritance/cars/Bakkie.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AboutInheritance/cars/Bakkie.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AboutInheritance/cars/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AboutInheritance/cars/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AboutInheritance/cars/FamilyCar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AboutInheritance/cars/FamilyCar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AboutInheritance/cars/FourbyFour.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AboutInheritance/cars/FourbyFour.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AboutInheritance/cars/Nissan.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AboutInheritance/cars/Nissan.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AboutInheritance/cars/SportCar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AboutInheritance/cars/SportCar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AboutInheritance/cars/Toyota.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AboutInheritance/cars/Toyota.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AboutInheritance/cars/smallBakies.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AboutInheritance/cars/smallBakies.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/animals/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/animals/Animal.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,7 +31,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1QxWlSX0GImnEpKIO1OcYayatTX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
@@ -59,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GameWithBouncyBall" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ball.GameWithBouncyBall" />
+    <configuration name="TestAdder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="invoking.TestAdder" />
       <module name="AboutInheritance" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ball.*" />
+          <option name="PATTERN" value="invoking.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,10 +120,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.TestAnimals" />
+        <item itemvalue="Application.TestAdder" />
         <item itemvalue="Application.TestShape" />
         <item itemvalue="Application.ExpointBaddo" />
         <item itemvalue="Application.Ball" />
-        <item itemvalue="Application.GameWithBouncyBall" />
       </list>
     </recent_temporary>
   </component>
@@ -120,5 +139,18 @@
       <updated>1568712878502</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
