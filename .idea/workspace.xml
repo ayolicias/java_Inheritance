@@ -2,14 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f2f8f4a4-fc9e-4a6b-a4d0-c8a7d350fc36" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/animals/Animal2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ball/Alpha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ball/Frog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ball/I1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ball/Init.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/animals/Animal2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/animals/Animal2.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="AboutInheritance" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -39,48 +46,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestAnimals">
-    <configuration name="Ball" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ball.Ball" />
-      <module name="AboutInheritance" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ball.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ExpointBaddo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cars.ExpointBaddo" />
-      <module name="AboutInheritance" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cars.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestAdder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="invoking.TestAdder" />
-      <module name="AboutInheritance" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="invoking.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestAnimals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="animals.TestAnimals" />
+  <component name="RunManager" selected="Application.Frog$TestFrog">
+    <configuration name="CastTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="animals.CastTest2" />
       <module name="AboutInheritance" />
       <extension name="coverage">
         <pattern>
@@ -92,12 +60,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestShape" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cars.TestShape" />
+    <configuration name="Frog$TestFrog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ball.Frog$TestFrog" />
       <module name="AboutInheritance" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cars.*" />
+          <option name="PATTERN" value="ball.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Frog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ball.Frog" />
+      <module name="AboutInheritance" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ball.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Init" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ball.Init" />
+      <module name="AboutInheritance" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ball.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultiInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ball.MultiInt" />
+      <module name="AboutInheritance" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ball.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestAnimals" />
-        <item itemvalue="Application.TestAdder" />
-        <item itemvalue="Application.TestShape" />
-        <item itemvalue="Application.ExpointBaddo" />
-        <item itemvalue="Application.Ball" />
+        <item itemvalue="Application.Frog$TestFrog" />
+        <item itemvalue="Application.Frog" />
+        <item itemvalue="Application.Init" />
+        <item itemvalue="Application.MultiInt" />
+        <item itemvalue="Application.CastTest2" />
       </list>
     </recent_temporary>
   </component>
